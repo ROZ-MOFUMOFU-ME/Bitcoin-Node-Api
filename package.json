@@ -14,7 +14,7 @@
 
 	"dependencies":{
 		"express": "^4.19.2",
-		"bitcoin-core": "3.1.0"
+		"bitcoin-core": "2.3.0"
 	},
 
 	"keywords": [
